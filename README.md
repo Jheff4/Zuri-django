@@ -1,1 +1,2 @@
-# Zuri-django
+# My First Django Project
+
